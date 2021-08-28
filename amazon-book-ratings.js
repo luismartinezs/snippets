@@ -1,3 +1,4 @@
+// Run this from a wishlist of amazon books
 // config
 MIN_RATINGS = 20;
 
